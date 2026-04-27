@@ -2,8 +2,6 @@
 
 Typed, async-first Python client for xAPI Learning Record Stores.
 
-> **Work in Progress** — core models and async client are under active development.
-
 ## Install
 
 ```bash
@@ -97,3 +95,7 @@ pip install -e ".[dev]"
 pytest tests/ -v
 ruff check src/ tests/
 ```
+
+## Status
+
+v0.1.0 — the async client, sync client, typed statement models, and verb registry are complete and used in production. Statement signing and attachment handling are planned for a future release.
