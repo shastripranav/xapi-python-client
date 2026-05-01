@@ -1,5 +1,7 @@
 # xapi-client
 
+[![CI](https://github.com/shastripranav/xapi-python-client/actions/workflows/ci.yml/badge.svg)](https://github.com/shastripranav/xapi-python-client/actions/workflows/ci.yml)
+
 Typed, async-first Python client for xAPI Learning Record Stores.
 
 ## Install
